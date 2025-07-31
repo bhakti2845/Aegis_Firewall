@@ -56,15 +56,15 @@ gtkwave top_firewall.vcd
 │   ├── fsm_firewall.v
 │   └── ascii_converter.v
 │
-├── testbench/
-│   └── tb_top_firewall.v
+├── tb_top_firewall.v
+│  
 ├── docs/
 │   └── gtkwave.png
 │   └── Schematic.png
 │
 ├── top_firewall.vcd      
-├── README.md
-└── .gitignore
+└── README.md
+ 
 ````
 ---
 ## FSM Summary
@@ -83,7 +83,10 @@ The design is simulation-verified on Vivado and Icarus Verilog.
 
 ---
 ## Author
-Bhakti Sushant Prabhu Dessai
-B.Tech, Electronics and Communication Engineering
-NIT Goa
+
+Bhakti Sushant Prabhu Dessai<br>
+B.Tech, Electronics and Communication Engineering<br>
+NIT Goa<br>
+
+---
 
