@@ -1,0 +1,14 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"C:/Users/bhakt/OneDrive/Desktop/Verilog/aegis_firewall/src/ascii_converter.v" \
+"C:/Users/bhakt/OneDrive/Desktop/Verilog/aegis_firewall/src/fsm_firewall.v" \
+"C:/Users/bhakt/OneDrive/Desktop/Verilog/aegis_firewall/src/packet_filter.v" \
+"C:/Users/bhakt/OneDrive/Desktop/Verilog/aegis_firewall/src/pattern_checker.v" \
+"C:/Users/bhakt/OneDrive/Desktop/Verilog/aegis_firewall/src/top_firewall.v" \
+"C:/Users/bhakt/OneDrive/Desktop/Verilog/aegis_firewall/testbench/tb_top_firewall.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

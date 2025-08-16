@@ -1,0 +1,11 @@
+0.7
+2020.2
+Nov  8 2024
+22:36:57
+C:/Users/bhakt/OneDrive/Desktop/Verilog/aegis_firewall/src/ascii_converter.v,1753789291,verilog,,C:/Users/bhakt/OneDrive/Desktop/Verilog/aegis_firewall/src/fsm_firewall.v,,ascii_converter,,,,,,,,
+C:/Users/bhakt/OneDrive/Desktop/Verilog/aegis_firewall/src/fsm_firewall.v,1753787188,verilog,,C:/Users/bhakt/OneDrive/Desktop/Verilog/aegis_firewall/src/packet_filter.v,,fsm_firewall,,,,,,,,
+C:/Users/bhakt/OneDrive/Desktop/Verilog/aegis_firewall/src/packet_filter.v,1753784571,verilog,,C:/Users/bhakt/OneDrive/Desktop/Verilog/aegis_firewall/src/pattern_checker.v,,packet_filter,,,,,,,,
+C:/Users/bhakt/OneDrive/Desktop/Verilog/aegis_firewall/src/pattern_checker.v,1753786695,verilog,,C:/Users/bhakt/OneDrive/Desktop/Verilog/aegis_firewall/src/top_firewall.v,,pattern_checker,,,,,,,,
+C:/Users/bhakt/OneDrive/Desktop/Verilog/aegis_firewall/src/top_firewall.v,1753789444,verilog,,C:/Users/bhakt/OneDrive/Desktop/Verilog/aegis_firewall/testbench/tb_top_firewall.v,,top_firewall,,,,,,,,
+C:/Users/bhakt/OneDrive/Desktop/Verilog/aegis_firewall/testbench/tb_top_firewall.v,1751449889,verilog,,,,tb_top_firewall,,,,,,,,
+D:/Vivado_Projects/aegis firewall/project_3.sim/sim_1/behav/xsim/glbl.v,1724786425,verilog,,,,glbl,,,,,,,,

@@ -1,0 +1,2 @@
+# Apply a clock constraint to your internal clock net
+create_clock -name clk -period 20.000 [get_ports clk]
