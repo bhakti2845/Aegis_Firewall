@@ -57,6 +57,8 @@ gtkwave top_firewall.vcd
 │   └── ascii_converter.v
 │
 ├── tb_top_firewall.v
+│
+├── Vivado
 │  
 ├── docs/
 │   └── gtkwave.png
