@@ -49,22 +49,20 @@ gtkwave top_firewall.vcd
 ## File Structure
 ```bash
 .
+├── Vivado
+├── docs/
+│   └── gtkwave.png
+│   └── Schematic.png
 ├── src/
 │   ├── top_firewall.v
 │   ├── packet_filter.v
 │   ├── pattern_checker.v
 │   ├── fsm_firewall.v
 │   └── ascii_converter.v
-│
+├── .gitignore
 ├── tb_top_firewall.v
-│
-├── Vivado
-│  
-├── docs/
-│   └── gtkwave.png
-│   └── Schematic.png
-│
-├── top_firewall.vcd      
+├── top_firewall.vcd
+├── LICENSE
 └── README.md
  
 ````
